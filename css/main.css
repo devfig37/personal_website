@@ -293,6 +293,11 @@ main {
     main .lg-heading {
       margin-top: 1rem;
       font-size: 5rem; }
+    main #work span {
+      display: inline; }
+    main span:before {
+      content: "\a ";
+      white-space: pre; }
   .projects {
       grid-template-columns: 1fr; } 
   .boxes {

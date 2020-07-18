@@ -294,10 +294,11 @@ main {
       margin-top: 1rem;
       font-size: 5rem; }
   .projects {
-    grid-template-columns: 1fr; } 
+      grid-template-columns: 1fr; } 
   .boxes {
-    display: inline; }
+      display: inline; }
   .boxes div { 
-    word-wrap: break-word;
-    font-size: 0.75rem; } }
+      word-wrap: break-word;
+      font-size: 1.3rem;
+      padding: 10px; } }
     

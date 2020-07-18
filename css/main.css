@@ -305,5 +305,5 @@ main {
   .boxes div { 
       word-wrap: break-word;
       font-size: 1.3rem;
-      padding: 10px; } }
+      padding: 5px 10px 40px 10px; } }
     

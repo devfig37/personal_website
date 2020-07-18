@@ -298,13 +298,13 @@ main {
     main span:before {
       content: "\a ";
       white-space: pre; }
+    main #contact span {
+      display: inline; }
+    main span:before {
+      content: "\a ";
+      white-space: pre; }
   .projects {
       grid-template-columns: 1fr; }
-   #contact span {
-    display: inline; }
-   span:before {
-    content: "\a ";
-    white-space: pre; }
   .boxes {
       display: inline; }
   .boxes div { 

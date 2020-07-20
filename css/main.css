@@ -304,7 +304,7 @@ main {
   #contact span {
     display: inline; }
   #about h2 {
-    font-size: 215%; }
+    font-size: 200%; }
   .projects {
       grid-template-columns: 1fr; }
   .boxes {

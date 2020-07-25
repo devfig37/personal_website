@@ -298,12 +298,11 @@ main {
       font-size: 5rem; }
   #work span {
     display: inline; }
-  span:before {
-    content: "\a ";
-    white-space: pre; }
+    #work span span:before {
+      content: "\a ";
+      white-space: pre; }
   #contact span {
-    display: inline; 
-    white-space: nowrap; }
+    display: inline; }
   #about h2 {
     font-size: 200%; }
   .projects {

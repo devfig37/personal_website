@@ -302,10 +302,8 @@ main {
     content: "\a ";
     white-space: pre; }
   #contact span {
-    display: inline; }
-      #contact span span:before {
-        content: "\a ";
-        white-space: nowrap; }
+    display: inline; 
+    white-space: nowrap; }
   #about h2 {
     font-size: 200%; }
   .projects {

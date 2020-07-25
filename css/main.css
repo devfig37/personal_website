@@ -305,6 +305,8 @@ main {
     display: inline; }
   #about h2 {
     font-size: 200%; }
+      #about h2 p {
+        text-align: left; }
   .projects {
       grid-template-columns: 1fr; }
   .boxes {

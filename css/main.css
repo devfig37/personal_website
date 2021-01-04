@@ -295,7 +295,23 @@ main {
  "job3";
     grid-template-columns: 1fr; }
   .projects {
-    grid-template-columns: repeat(2, 1fr); } }
+    display: grid;
+    grid-gap: 0.7rem;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .projects img {
+    width: 100%;
+  }
+  .projects .btn-light {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+  .projects .btn-dark {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  } }
 
 @media screen and (max-width: 500px) {
   main {

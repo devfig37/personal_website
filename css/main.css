@@ -191,7 +191,7 @@ main {
 
 .projects {
   grid-template-columns: 1fr;
-  text-align: center;
+  text-align: center;}
   .projects > div {
   padding: 20px 0;}
   .projects img {
